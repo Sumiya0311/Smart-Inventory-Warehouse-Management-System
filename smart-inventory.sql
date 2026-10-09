@@ -1,0 +1,2 @@
+CREATE DATABASE smart_inventory;
+SHOW DATABASES;
